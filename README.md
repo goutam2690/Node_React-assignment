@@ -33,16 +33,16 @@ Make sure you have the following installed on your machine:
    git clone https://github.com/goutam2690/Node_React-assignment.git
 
 ### Install dependencies
-cd server
+cd server-
 npm install
-cd server
+cd server-
 npm install
 
 ### Run the application
-cd server
+cd server-
 npm start
 
-cd client
+cd client-
 npm run dev
 
 
